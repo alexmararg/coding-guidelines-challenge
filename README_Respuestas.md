@@ -1,4 +1,4 @@
-1. Falta el cierre de <p> 
+1. Falta el cierre del segundo párrafo.
 2. Indexación o sangría.
 3. Suma de los números dentro del array que sean mayor que 0.
 4. Con los nombres de las variables y función tan definidos cuesta una décima parte la lectura.
